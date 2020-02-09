@@ -1,0 +1,4 @@
+# authTest initgit add README.mdgit commit -m first commitgit remote add origin https://github.com/Yrerbal/authTest.git git push -u origin master
+# authTest initgit add README.mdgit commit -m first commitgit remote add origin https://github.com/Yrerbal/authTest.git git push -u origin master
+# authTest initgit add README.mdgit commit -m first commitgit remote add origin https://Yrerbal@github.com/Yrerbal/authTest.git git push -u origin master
+# authTest initgit add README.mdgit commit -m first commitgit remote add origin https://Yrerbal@github.com/Yrerbal/authTest.git git push -u origin master
